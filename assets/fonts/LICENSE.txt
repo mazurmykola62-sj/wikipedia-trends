@@ -1,0 +1,9 @@
+DejaVu Sans (DejaVuSans.ttf, DejaVuSans-Bold.ttf)
+
+Bundled here so PDF report generation has full Cyrillic, Polish/Czech
+diacritics, and general Unicode coverage without depending on whatever
+fonts happen to be installed on the host system.
+
+DejaVu fonts are a free, open collection (based on Bitstream Vera) with a
+permissive license that allows redistribution and embedding, including in
+generated documents. Full license text: https://dejavu-fonts.github.io/License.html
